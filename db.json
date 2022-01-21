@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Ashit ",
+      "email": "ashitdighe@gmail.com",
+      "contact": "53333333",
+      "address": "Independant house",
+      "id": 8
+    },
+    {
+      "name": "kartiksable",
+      "email": "kartik@gmail.com",
+      "contact": "5556656",
+      "address": "jorve",
+      "id": 9
+    },
+    {
+      "name": "Ashit Dighe",
+      "email": "ashitdighe@gmail.com",
+      "contact": "12121212",
+      "address": "Independant house",
+      "id": 10
+    }
+  ]
+}
